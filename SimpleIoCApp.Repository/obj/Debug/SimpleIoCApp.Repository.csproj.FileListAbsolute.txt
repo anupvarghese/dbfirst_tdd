@@ -1,9 +1,0 @@
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Repository\bin\Debug\SimpleIoCApp.Repository.dll
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Repository\bin\Debug\SimpleIoCApp.Repository.pdb
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Repository\bin\Debug\EntityFramework.dll
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Repository\bin\Debug\EntityFramework.xml
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Repository\obj\Debug\SimpleIoCApp.Repository.dll
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Repository\obj\Debug\SimpleIoCApp.Repository.pdb
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Repository\bin\Debug\Moq.dll
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Repository\bin\Debug\Moq.xml
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Repository\obj\Debug\SimpleIoCApp.Repository.csprojResolveAssemblyReference.cache

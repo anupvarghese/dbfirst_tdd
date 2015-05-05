@@ -1,7 +1,0 @@
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Service\obj\Debug\SimpleIoCApp.Service.csprojResolveAssemblyReference.cache
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Service\bin\Debug\SimpleIoCApp.Service.dll
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Service\bin\Debug\SimpleIoCApp.Service.pdb
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Service\obj\Debug\SimpleIoCApp.Service.dll
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Service\obj\Debug\SimpleIoCApp.Service.pdb
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Service\bin\Debug\Moq.dll
-c:\users\anoop.gpl\documents\visual studio 2013\Projects\SimpleIoCApp\SimpleIoCApp.Service\bin\Debug\Moq.xml
